@@ -1,3 +1,5 @@
+//DIVIDE AND CONCUENCCY SORT ->> MERGE SORT 
+
 #include <iostream>
 using namespace std;
 
